@@ -26,6 +26,8 @@ export class AppComponent {
     this.image3 = 'assets/images/dice/side3.png';
     this.alt3 = 'side 3';
 
+    this.total = 6;
+
 
   }
   roll() {
