@@ -11,16 +11,16 @@ app-footer{
 }
 
 .box1{
-  background-color: darkorange;
+  background-color: red;
   text-align: center;
 }
 
 .box2{
-  background-color: ghostwhite;
+  background-color: darkblue;
   text-align: center;
 }
 
 .box3{
-  background-color: forestgreen ;
+  background-color: yellow ;
   text-align: center;
 }
