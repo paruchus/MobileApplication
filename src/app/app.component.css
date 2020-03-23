@@ -1,0 +1,26 @@
+h1{
+  color: brown;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
+app-footer{
+  text-align: center;
+}
+
+.box1{
+  background-color: darkorange;
+  text-align: center;
+}
+
+.box2{
+  background-color: ghostwhite;
+  text-align: center;
+}
+
+.box3{
+  background-color: forestgreen ;
+  text-align: center;
+}
